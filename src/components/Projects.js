@@ -17,6 +17,7 @@ export const Projects = () => {
 
       url: "https://hotelstask.com/HtaskOrder/",
       imgUrl: projImg1,
+      source_url : "https://www.youtube.com/watch?v=u_Z23WLjm7k"
     },
     {
       url: "https://vginv.com/",
