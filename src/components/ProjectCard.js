@@ -6,7 +6,7 @@ export const ProjectCard = ({ source_url, url, imgUrl }) => {
       <div className="proj-imgbx">
         <img src={imgUrl} />
         <div className="proj-txtx">
-          <a href={url} target="_blank">Live Preview</a>
+          {url && <a href={url} target="_blank">Live Preview</a>}  
           {
             source_url && <a href={source_url} target="_blank">Source Code</a>
           }

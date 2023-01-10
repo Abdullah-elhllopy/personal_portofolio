@@ -7,6 +7,9 @@ import projImg4 from "../assets/img/netflex.png";
 import projImg5 from "../assets/img/travel.png";
 import projImg6 from "../assets/img/burger.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
+import ecommerce from "../assets/img/ecommerce2.png";
+import digitalImg from "../assets/img/digitalImg.png"
+import Api from "../assets/img/APIs.png"
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -17,7 +20,7 @@ export const Projects = () => {
 
       url: "https://hotelstask.com/HtaskOrder/",
       imgUrl: projImg1,
-      source_url : "https://www.youtube.com/watch?v=u_Z23WLjm7k"
+      source_url: "https://www.youtube.com/watch?v=u_Z23WLjm7k"
     },
     {
       url: "https://vginv.com/",
@@ -32,18 +35,36 @@ export const Projects = () => {
     {
       url: "https://netflix-clone-rg.netlify.app/#/",
       imgUrl: projImg4,
-      source_url : "https://github.com/Abdullah-elhllopy/netflex-clone"
+      source_url: "https://github.com/Abdullah-elhllopy/netflex-clone"
     },
     {
       url: "https://giri-traveladvisor.netlify.app/",
       imgUrl: projImg5,
-      source_url : "https://github.com/Abdullah-elhllopy/travel-advisor"
+      source_url: "https://github.com/Abdullah-elhllopy/travel-advisor"
     },
     {
       url: "https://abdullah-elhllopy.github.io/Burger/",
       imgUrl: projImg6,
-      source_url :"https://github.com/Abdullah-elhllopy/Burger-App"
+      source_url: "https://github.com/Abdullah-elhllopy/Burger-App"
     },
+    {
+      url: "https://ecommerce-igaryii8r-abdullahahmed199654-gmailcom.vercel.app/",
+      imgUrl: ecommerce,
+      source_url: "https://github.com/Abdullah-elhllopy/ecommerce"
+    },
+    {
+      imgUrl: digitalImg,
+      source_url: "https://abdullah-elhllopy.github.io/digital_design/",
+      source_url: "https://github.com/Abdullah-elhllopy/digital_design"
+    },
+    {
+      imgUrl: Api,
+      source_url: "https://github.com/Abdullah-elhllopy/memories"
+    },
+    {
+      imgUrl: Api,
+      source_url: "https://github.com/Abdullah-elhllopy/Tours"
+    }
   ];
   return (
     <section className="project" id="projects">
