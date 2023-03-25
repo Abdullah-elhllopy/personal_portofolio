@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/personal_portofolio/static/css/main.db907abc.css",
-    "main.js": "/personal_portofolio/static/js/main.e8946424.js",
+    "main.js": "/personal_portofolio/static/js/main.cb4de43f.js",
     "static/js/787.fb771931.chunk.js": "/personal_portofolio/static/js/787.fb771931.chunk.js",
     "static/media/burger.png": "/personal_portofolio/static/media/burger.4122b5cc948863db85fe.png",
     "static/media/travel.png": "/personal_portofolio/static/media/travel.fe8f2d303ce573853005.png",
+    "static/media/digitalImg.png": "/personal_portofolio/static/media/digitalImg.dcccef6c4e90ee4fcba4.png",
     "static/media/color-sharp.png": "/personal_portofolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/ecommerce2.png": "/personal_portofolio/static/media/ecommerce2.02473a11df2832234a95.png",
     "static/media/netflex.png": "/personal_portofolio/static/media/netflex.42e76900ecc4e852a683.png",
     "static/media/color-sharp2.png": "/personal_portofolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/banner-bg.png": "/personal_portofolio/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/personal_portofolio/static/media/header-img.400baa4260daac98f2b2b1ccf08761c2.svg",
+    "static/media/APIs.png": "/personal_portofolio/static/media/APIs.1ea0f228ee47fcd41086.png",
     "static/media/vg.png": "/personal_portofolio/static/media/vg.2eb06ef7a6b9b3d5e8a8.png",
     "static/media/CentraNo2-Bold.ttf": "/personal_portofolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/personal_portofolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -31,11 +34,11 @@
     "static/media/arrow2.svg": "/personal_portofolio/static/media/arrow2.b3d03e1b04ec1904a5658aea5776433c.svg",
     "static/media/arrow1.svg": "/personal_portofolio/static/media/arrow1.1088f8313e5637897aff2414e5938141.svg",
     "main.db907abc.css.map": "/personal_portofolio/static/css/main.db907abc.css.map",
-    "main.e8946424.js.map": "/personal_portofolio/static/js/main.e8946424.js.map",
+    "main.cb4de43f.js.map": "/personal_portofolio/static/js/main.cb4de43f.js.map",
     "787.fb771931.chunk.js.map": "/personal_portofolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db907abc.css",
-    "static/js/main.e8946424.js"
+    "static/js/main.cb4de43f.js"
   ]
 }
