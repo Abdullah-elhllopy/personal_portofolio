@@ -1,6 +1,18 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
+import procoorfm from "../assets/native/procoorfm.png";
+import ApprovalRN from "../assets/native/ApprovalRN.png";
+import Procoor_Tenants from "../assets/native/Procoor_Tenants.png"
+import PROCOORCRM from "../assets/native/PROCOORCRM.png"
+import qualitycontrol from "../assets/native/qualitycontrol.webp"
+import procoorattendance from "../assets/native/procoorattendance.webp"
+import yureka from "../assets/native/yureka.png"
+
 import projImg1 from "../assets/img/hoteltast.png";
+
+
+
+
 import projImg2 from "../assets/img/vg.png";
 import projImg3 from "../assets/img/jwhara.png";
 import projImg4 from "../assets/img/netflex.png";
@@ -18,18 +30,60 @@ export const Projects = () => {
   const projects = [
     {
 
-      url: "https://hotelstask.com/HtaskOrder/",
-      imgUrl: projImg1,
-      source_url: "https://www.youtube.com/watch?v=u_Z23WLjm7k"
+      url: "https://yureka-blue.web.app/",
+      imgUrl: yureka,
+
     },
     {
-      url: "https://vginv.com/",
-      imgUrl: projImg2,
+
+      url: "https://play.google.com/store/apps/details?id=com.procoorfm",
+      imgUrl: procoorfm,
+
     },
     {
-      url: "https://jwhara.net/",
-      imgUrl: projImg3,
+
+      url: "https://play.google.com/store/apps/details?id=com.procoor.ApprovalRN",
+      imgUrl: ApprovalRN,
+
     },
+    {
+
+      url: "https://play.google.com/store/apps/details?id=com.procoor.Procoor_Tenants",
+      imgUrl: Procoor_Tenants,
+
+    },
+    {
+
+      url: "https://play.google.com/store/apps/details?id=com.procoor.PROCOORCRM",
+      imgUrl: PROCOORCRM,
+
+    },
+    {
+
+      url: "https://play.google.com/store/apps/details?id=com.procoor.apps.qualitycontrol",
+      imgUrl: qualitycontrol,
+
+    },
+    {
+
+      url: "https://play.google.com/store/apps/details?id=com.procoorattendance",
+      imgUrl: procoorattendance,
+
+    },
+    // {
+
+    //   url: "https://hotelstask.com/HtaskOrder/",
+    //   imgUrl: projImg1,
+    //   source_url: "https://www.youtube.com/watch?v=u_Z23WLjm7k"
+    // },
+    // {
+    //   url: "https://vginv.com/",
+    //   imgUrl: projImg2,
+    // },
+    // {
+    //   url: "https://jwhara.net/",
+    //   imgUrl: projImg3,
+    // },
   ];
   const personal_projects = [
     {
